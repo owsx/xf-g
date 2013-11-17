@@ -1,0 +1,10 @@
+
+body {margin:0px;padding:0px;font-size:14px;}
+
+.left {float:left;}
+.right {float:right;}
+.clear {clear:both;}
+
+#header {padding:5px;border-bottom:1px solid #CCC;text-align:right;}
+#index {padding:5px;}
+#footer {padding:5px;border-top:1px solid #CCC;}
